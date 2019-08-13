@@ -1,0 +1,34 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: gold;
+  font-family: fantasy;
+  font-stretch: expanded;
+  font-weight: bolder;
+}
+
+h2.intro {
+  color: GREEN;
+  font-size: 24;
+
+}
+
+p.intro {
+  font-style: oblique;
+  font-family: cursive;
+  color: brown;
+  text-align: center;
+}
+
+img.intro {
+  float: right;
+  filter: blur(99);
+}
+
+
+h1.title {
+  color: Purple;
+}
